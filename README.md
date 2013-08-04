@@ -5,7 +5,7 @@ This Puppet module will configure an nginx web server to serve the puppetlabs ex
 
 
 
-To run this module either save the folder anywhere where you have permissions to or using Git do a clone:
+To run this module either save the folder anywhere where you have permission. Or using Git do a clone of:
 
 $git clone https://github.com/randbops/nginx_server1.git
 
