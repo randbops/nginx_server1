@@ -1,4 +1,4 @@
-	node 'ubuntu1204vm.localdomain' {
+	node 'ubuntunginxvm.localdomain' {
 		include nginx
 
 		nginx::vhost { 'puppetlabs-task.com':

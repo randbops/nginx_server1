@@ -1,3 +1,0 @@
-#!/bin/sh
-
-sudo puppet apply /home/rparkinson/puppet/manifests/site.pp --modulepath=/home/rparkinson/puppet/modules/ $*
