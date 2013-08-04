@@ -1,7 +1,7 @@
 nginx_server1
 =============
 
-puppet module to config nginx web server
+puppet module to config nginx web server to serve the puppetlabs exercise webpage.
 
 To run this module either save the folder anywhere where you have permissions to or using Git do a clone:
 
