@@ -3,7 +3,7 @@ nginx_server1
 
 This Puppet module will configure an nginx web server to serve the puppetlabs exercise webpage.
 
-NOTE: This module relies on Puppet and Git (optional) being installed!
+NOTE: This module relies on Puppet and Git (optional) being installed on a Debian Based OS!
 
 
 
