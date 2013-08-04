@@ -25,7 +25,7 @@ http://puppetlabs-task.com:8080
 
 you will need to add this to your /etc/hosts file.
 
-<ipaddress>  puppetlabs-task.com
+\<ipaddress\>  puppetlabs-task.com
 
 else on the local host:
 
