@@ -7,7 +7,7 @@ NOTE: This module relies on Puppet and Git (optional) being installed!
 
 
 
-To run this module uncompress the folder anywhere where you have permission, or using Git do a clone of:
+To run this module uncompress the folder anywhere you have permission, or using Git do a clone of:
 
 $ git clone https://github.com/randbops/nginx_server1.git
 
